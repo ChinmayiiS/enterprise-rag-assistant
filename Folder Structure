@@ -1,0 +1,19 @@
+enterprise-rag-assistant/
+│
+├── app/
+│   ├── main.py
+│   ├── config.py
+│   ├── ingestion.py
+│   ├── retriever.py
+│   ├── prompt.py
+│   ├── llm.py
+│
+├── data/
+├── vectorstore/
+│
+├── evaluation/
+│   └── eval.py
+│
+├── requirements.txt
+├── Dockerfile
+├── README.md
